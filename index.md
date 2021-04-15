@@ -20,7 +20,7 @@ We have the following rooms and hours:
 
 | Lecture   	| Date		    | Subject	  | Lecturer |
 |-----------|-----------|-----------|----------|
-| L1  | Date | [Introduction](lectures/01-introduction.pptx) | Lecturer |
+| L1  | 06.09.21 | [Introduction](lectures/01-introduction.pptx) | DJC |
 
 ## Readings
 
