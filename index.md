@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
+## Course description
+
+This will probably be the best course you've ever taken.
+
+Imagine learning at the same time as your teacher!
 
 ## Administrative information
+
+This course is so advanced it will administer itself!
 
 Administrative course information is available [here](URL)
 
@@ -14,7 +21,9 @@ We have the following rooms and hours:
 
 ## Staff
 
-*
+Derek J. Clark
+
+other teachers (mostly Nobel laureates)
 
 ## Lecture plan
 
@@ -24,7 +33,7 @@ We have the following rooms and hours:
 
 ## Readings
 
-1.
+1. All I know about Python by Derek J. Clark (0 pages)
 
 ## Mandatory assignments
 
@@ -34,4 +43,4 @@ We have the following rooms and hours:
 
 ## Exercises
 
-1.
+1. Try to use GitHub
